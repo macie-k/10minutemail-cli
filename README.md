@@ -1,15 +1,6 @@
 # 10 minute mail - CLI
 Quickly create 10 minute mail and display first received message
 
-<br>  
-<br>  
-
-<p align="center">
-  <a href="http://bit.ly/BuyMeACoffee-GitHub" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px">
-  </a>  
-</p>
-
 <br>
 
 ## Preview
@@ -30,3 +21,13 @@ Quickly create 10 minute mail and display first received message
 ## Arguments
 - `-i`, `--interval` set the interval at which the mailbox is being checked (default 3s)
   - i.e. `10mail.exe -i 10` to check every 10 seconds
+
+<br>  
+
+## Support
+- You can buy me a coffee here: 
+<p align="center">
+  <a href="http://bit.ly/BuyMeACoffee-GitHub" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px">
+  </a>  
+</p>
