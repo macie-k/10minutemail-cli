@@ -1,5 +1,5 @@
 # 10 minute mail - CLI
-Quickly create 10 minute mail and display first received message
+Quickly create 10 minute mail and display first received message in your terminal/command line
 
 <br>
 
