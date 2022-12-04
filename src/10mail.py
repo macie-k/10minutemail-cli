@@ -1,4 +1,3 @@
-from unicodedata import ucnhash_CAPI
 from urllib import response
 import pyperclip
 import string
